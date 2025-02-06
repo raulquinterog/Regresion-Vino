@@ -5,7 +5,7 @@ Descargar archivos del proyecto
 Puedes descargar los archivos desde este repositorio:
 
 [A1_4_Vino_Tinto.ipynb
-]([url](https://github.com/raulquinterog/Regresion-Vino/blob/4df0a10ecf5c00486535b66e6d83a7ec11d90658/A1_4_Vino_Tinto%20(1).ipynb))
+]([url](https://github.com/raulquinterog/Regresion-Vino/blob/4df0a10ecf5c00486535b66e6d83a7ec11d90658/A1_4_Vino_Tinto%20(1).ipynb)
 
 [A1.4 Vino Tinto.csv
 ](https://github.com/raulquinterog/Regresion-Vino/blob/4df0a10ecf5c00486535b66e6d83a7ec11d90658/A1.4%20Vino%20Tinto.csv)
